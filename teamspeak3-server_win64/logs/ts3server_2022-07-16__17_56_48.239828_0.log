@@ -1,0 +1,26 @@
+2022-07-16 17:56:48.239828|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.13.7 (2022-06-20 12:21:53)
+2022-07-16 17:56:48.239828|INFO    |ServerLibPriv |   |SystemInformation: Windows 10 (22000) x64 (AMD or Intel) Binary: 64bit
+2022-07-16 17:56:48.239828|INFO    |ServerLibPriv |   |Using hardware aes
+2022-07-16 17:56:48.280816|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2022-07-16 17:56:48.280816|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2022-07-16 17:56:48.281813|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2022-07-16 17:56:48.291292|INFO    |SQL           |   |db_CreateTables() tables created
+2022-07-16 17:56:48.311238|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2022-07-16 17:56:48.315270|INFO    |Accounting    |   |Licensing Information
+2022-07-16 17:56:48.315270|INFO    |Accounting    |   |licensed to       : Anonymous
+2022-07-16 17:56:48.315270|INFO    |Accounting    |   |type              : No License
+2022-07-16 17:56:48.315270|INFO    |Accounting    |   |starting date     : Tue Feb  1 00:00:00 2022
+2022-07-16 17:56:48.315270|INFO    |Accounting    |   |ending date       : Thu Jul  1 00:00:00 2027
+2022-07-16 17:56:48.315270|INFO    |Accounting    |   |max virtualservers: 1
+2022-07-16 17:56:48.315270|INFO    |Accounting    |   |max slots         : 32
+2022-07-16 17:56:49.204966|INFO    |              |   |Puzzle precompute time: 877
+2022-07-16 17:56:49.521808|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2022-07-16 17:56:49.526827|INFO    |VirtualSvrMgr |   |executing monthly interval
+2022-07-16 17:56:49.528824|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2022-07-16 17:56:49.548519|INFO    |Query         |   |Using a query thread pool size of 2
+2022-07-16 17:56:49.559490|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2022-07-16 17:56:49.559490|INFO    |              |   |creating QUERY_SSH_RSA_HOST_KEY file: ssh_host_rsa_key
+2022-07-16 17:56:49.734054|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-16 17:57:00.201598|INFO    |Query         |   |listening for ssh query on 0.0.0.0:10022, [::]:10022
+2022-07-16 17:57:00.202577|INFO    |Query         |   |listening for http query on 0.0.0.0:10080, [::]:10080
+2022-07-16 17:57:00.203718|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 127.0.0.1/32, ::1/128, 
